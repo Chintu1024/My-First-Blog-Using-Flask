@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingspace",
+    "prod_uri":"mysql://root:@localhost/codingspace",
+    "fb_url":"https://facebook.com/codingspace",
+    "tw_url":"https://twitter.com/codingspace",
+    "gh_url": "https://github.com/codingspace",
+    "blog_name": "The Coding Space",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"maneeshkumar13121@gmail.com",
+    "gmail-password":"uvmqolbgmxbdkwcm",
+    "about_text": "Hi my name is Maneesh and I am an AI Student",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"maneesh",
+    "admin_password": "mk@13121",
+    "upload_location": "C:\\Users\\saaharsh\\PycharmProjects\\cp"
+  }
+}
+
